@@ -10,7 +10,7 @@ A modern, responsive dictionary web app built with HTML, CSS, and JavaScript. Vo
 - 📱 Fully responsive design
 
 ## 🚀 Live Demo
-👉 [Visit Vocab Vault]()
+👉 [Visit Vocab Vault](https://ankitasure23.github.io/vocab-vault/)
 
 
 ## 📂 Tech Stack
@@ -20,7 +20,10 @@ A modern, responsive dictionary web app built with HTML, CSS, and JavaScript. Vo
 - GitHub Pages (for hosting)
 
 ## 📸 Screenshot
-_Add a screenshot of your site here (optional but professional)._
+![Screenshot 2025-06-25 115908](https://github.com/user-attachments/assets/ba7cdad5-e19a-4f3f-b0a2-2d23d2f030a5)
+![Screenshot 2025-06-25 115947](https://github.com/user-attachments/assets/0d909379-33df-460c-96ee-2bd29f816fd7)
+
+
 
 ## 💡 Future Improvements
 - Word of the Day
